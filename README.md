@@ -19,7 +19,7 @@
 - 🤔 DevOps
 - 👯 SecOps
 
-**Skill 🐤** 
+### Skill 🐤** 
 ```text
 🌞 Java Core                    █████████████████████████   100% 
 🌆 Java Swing                   █████████████████████████   100% 
