@@ -55,7 +55,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shacojx&theme=onedark)](https://github.com/shacojx)
 
-<summary> 💥 Working on </summary>
+### 💥 Working on
 <br>
 <p align="center">
  📌 Pinned Repositories
