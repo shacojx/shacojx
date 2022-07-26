@@ -7,11 +7,10 @@
 [![TryHackMe Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/shaco.jx)](https://facebook.com/shaco.jx)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shacojx001@gmail.com)](mailto:shacojx001@gmail.com)
 
- <p><img height="350" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
+ 
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- 🌱 Leader **EOG** Team
+- 🌱 Leader **EOG** Team <img height="350" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 - 🔭 Leader **GVN** Team
 - 🛠 Ethical Hacker
 - 🐞 Developer
