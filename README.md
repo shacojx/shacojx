@@ -55,4 +55,50 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shacojx&theme=onedark)](https://github.com/shacojx)
 
+<details>
+<summary> 💥 Working on </summary>
+<br>
+<p align="center">
+### 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/shacojx/EScan">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shacojx&repo=EScan&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/shacojx/VinaScanHub">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shacojx&repo=VinaScanHub&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/shacojx/FTSec-Email-Spoofing-Tool">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shacojx&repo=FTSec-Email-Spoofing-Tool&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<a href="https://github.com/shacojx/Exploit-XMLRPC-Toolkit">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shacojx&repo=Exploit-XMLRPC-Toolkit&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+</p>
+### 📝 Latest Blog Posts
+
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+- [Building automated software scan security vulnerabilities in web applications - EOG Team](https://shacojx.blogspot.com/2020/08/building-automated-software-scan.html)
+- [How to me cheat auto select answer correct "EOS Client (Exam final Tool at FPT University)"?](https://shacojx.blogspot.com/2021/07/how-to-i-cheat-auto-select-answer.html)
+- [Fake Mail with Java](https://shacojx.blogspot.com/2019/04/fake-mail-with-java-hoa-roi-cua-phat.html)
+- [FPT University Phishing mail spoofing](https://shacojx.blogspot.com/2019/04/drama-fpt-phishing-mail-thoi-anh-khong.html)
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
+</details>
 
