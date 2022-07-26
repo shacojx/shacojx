@@ -87,7 +87,7 @@
 <br>
 <br>
 </p>
-### 📝 Latest Blog Posts
+📝 Latest Blog Posts
 
 <br>
 
