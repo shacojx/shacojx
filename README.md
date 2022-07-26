@@ -28,6 +28,6 @@ Leader EOG Team & Leadr GVN Team. <br/><br/>
 <br>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=evildevill&theme=onedark)](https://github.com/shacojx)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shacojx&theme=onedark)](https://github.com/shacojx)
 
   <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
