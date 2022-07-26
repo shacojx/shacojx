@@ -55,7 +55,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shacojx&theme=onedark)](https://github.com/shacojx)
 
-<details>
 <summary> 💥 Working on </summary>
 <br>
 <p align="center">
@@ -100,5 +99,4 @@
 
 <br>
 
-</details>
 
