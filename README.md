@@ -12,7 +12,7 @@
 
 - 🌱 Leader **EOG** Team  <img width="350" height="200" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 - 🔭 Leader **GVN** Team
-- 🛠 Pentester
+- 🛠 Ethical Hacker
 - 🐞 Developer
 - 🤖 Gamer
 - 📊 Blogger
