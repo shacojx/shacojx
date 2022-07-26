@@ -16,6 +16,8 @@
 - 🐞 Developer
 - 🤖 Gamer
 - 📊 Blogger
+- 🤔 DevOps
+- 👯 SecOps
 
 ### 🚀 Quick Stats
 <p align="center">
