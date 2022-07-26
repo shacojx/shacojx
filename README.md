@@ -17,7 +17,7 @@ Leader EOG Team & Leadr GVN Team. <br/><br/>
 <br>
 
 <a href="https://github.com/shacojx">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shacojx&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shacojx&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/shacojx">
@@ -27,5 +27,7 @@ Leader EOG Team & Leadr GVN Team. <br/><br/>
 <br>
 <br>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=evildevill&theme=onedark)](https://github.com/shacojx)
 
   <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
