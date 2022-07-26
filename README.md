@@ -10,7 +10,12 @@
 
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- 🌱 Leader **EOG** Team & Leadr **GVN** Team.   <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+- 🌱 Leader **EOG** Team  <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+- 🔭 Leadr **GVN** Team
+- 🛠 Pentester
+- 🐞 Developer
+- 🤖 Gamer
+- 📊 Blogger
 
 ### 🚀 Quick Stats
 <p align="center">
