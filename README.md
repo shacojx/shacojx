@@ -10,7 +10,7 @@
 
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- 🌱 Leader **EOG** Team  <img width="350" height="200" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+- 🌱 Leader **EOG** Team  <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 - 🔭 Leader **GVN** Team
 - 🛠 Ethical Hacker
 - 🐞 Developer
