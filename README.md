@@ -11,7 +11,7 @@
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 - 🌱 Leader **EOG** Team  <img width="350" height="200" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
-- 🔭 Leadr **GVN** Team
+- 🔭 Leader **GVN** Team
 - 🛠 Pentester
 - 🐞 Developer
 - 🤖 Gamer
