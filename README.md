@@ -9,7 +9,7 @@
 <img height="350" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
  
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="100"/>
+<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="250" height="100"/>
 <img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250"/>
 <img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="250"/>
 
