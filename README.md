@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shacojx001@gmail.com)](mailto:shacojx001@gmail.com)
 <img height="350" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
  
-### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+### A little about me... 
 <img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="200"/>
 <img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250"/>
 <img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="250"/>
@@ -101,7 +101,7 @@
 - [Fake Mail with Java](https://shacojx.blogspot.com/2019/04/fake-mail-with-java-hoa-roi-cua-phat.html)
 - [FPT University Phishing mail spoofing](https://shacojx.blogspot.com/2019/04/drama-fpt-phishing-mail-thoi-anh-khong.html)
 <!-- BLOG-POST-LIST:END -->
-
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 <br>
 <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
