@@ -19,7 +19,7 @@
 - 📊 Blogger
 - 🤔 DevOps
 - 👯 SecOps
-<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="250"/> <img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250"/> <img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="250"/>
+<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="150"/> <img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="200"/> <img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="200"/>
 
 
 ### Skill 🐤 
