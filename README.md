@@ -10,16 +10,15 @@
  
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- 🌱 Leader **EOG** Team (2016 - Now)
-- 🔭 Leader **GVN** Team (2019 - Now)
-- 🤖 Leader **AWASS** Team (2021 - Now)
+- 🌱 Leader **EOG** Team (2016 - Now) <img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="100"/>
+- 🔭 Leader **GVN** Team (2019 - Now) <img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250"/>
+- 🤖 Leader **AWASS** Team (2021 - Now) <img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="250"/>
 - 🛠 Ethical Hacker
 - 🐞 Developer
 - 🤖 Gamer
 - 📊 Blogger
 - 🤔 DevOps
 - 👯 SecOps
-<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="150"/> <img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="200"/> <img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="200"/>
 
 
 ### Skill 🐤 
