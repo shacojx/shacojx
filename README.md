@@ -10,8 +10,9 @@
  
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
-- 🌱 Leader **EOG** Team
-- 🔭 Leader **GVN** Team
+- 🌱 Leader **EOG** Team (2016 - Now)
+- 🔭 Leader **GVN** Team (2019 - Now)
+- 🤖 Leader **AWASS** Team (2021 - Now)
 - 🛠 Ethical Hacker
 - 🐞 Developer
 - 🤖 Gamer
