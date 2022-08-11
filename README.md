@@ -12,6 +12,7 @@
 <img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="100"/>
 <img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250"/>
 <img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="250"/>
+
 - 🌱 Leader **EOG** Team (2016 - Now) 
 - 🔭 Leader **GVN** Team (2019 - Now) 
 - 🤖 Leader **AWASS** Team (2021 - Now) 
