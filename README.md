@@ -11,11 +11,11 @@
 ### A little about me... <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
 - 🌱 Leader **EOG** Team (2016 - Now)
-<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="25">
+<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="50">
 - 🔭 Leader **GVN** Team (2019 - Now)
-<img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="25">
+<img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="50">
 - 🤖 Leader **AWASS** Team (2021 - Now)
-<img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="25">
+<img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="50">
 - 🛠 Ethical Hacker
 - 🐞 Developer
 - 🤖 Gamer
