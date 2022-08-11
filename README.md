@@ -13,15 +13,16 @@
 - 🌱 Leader **EOG** Team (2016 - Now)
 - 🔭 Leader **GVN** Team (2019 - Now)
 - 🤖 Leader **AWASS** Team (2021 - Now)
-<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="250">
-<img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250">
-<img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="250">
 - 🛠 Ethical Hacker
 - 🐞 Developer
 - 🤖 Gamer
 - 📊 Blogger
 - 🤔 DevOps
 - 👯 SecOps
+<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="250">
+<img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250">
+<img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="250">
+
 
 ### Skill 🐤 
 ```text
