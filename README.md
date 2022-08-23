@@ -14,7 +14,7 @@
 - 🌱 Leader **EOG** Team (2016 - Now) 
 - 🔭 Leader **GVN** Team (2019 - Now) 
 - 🤖 Leader **AWASS** Team (2021 - Now) 
-- 🛠 Ethical Hacker
+- 🛠 Not Hacker
 - 🐞 Developer
 - 🤖 Gamer
 - 📊 Blogger
