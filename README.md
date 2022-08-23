@@ -70,6 +70,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br>
+### Vistors Count
+
+ ![:name](https://count.getloli.com/get/@shacojx)
 <p align="center">
   <img src="https://github.com/shacojx/shacojx/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
 
