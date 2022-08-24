@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shacojx001@gmail.com)](mailto:shacojx001@gmail.com)
 
  
-<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="150" align="left"/><img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250" align="center"/><img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="250" align="center"/><img src="https://github.com/shacojx/shacojx/blob/main/sjx.jpg" width="150" align="right"/>
+<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="150" align="left"/><img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250" align="center"/><img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="250" align="center"/>
 ### A little about me... 
 
 - 🌱 Leader **EOG** Team (2016 - Now) 
@@ -71,9 +71,6 @@
 
 <br>
 
-### Vistors Count
-
- ![:name](https://count.getloli.com/get/@shacojx)
 <p align="center">
   <img src="https://github.com/shacojx/shacojx/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
 
