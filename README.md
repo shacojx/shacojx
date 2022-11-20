@@ -11,10 +11,10 @@
 <img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="150" align="left"/><img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250" align="center"/><img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="250" align="center"/>
 ### A little about me... 
 
-- 🌱 Leader **EOG** Team (2016 - Now) 
-- 🔭 Leader **GVN** Team (2019 - Now) 
-- 🤖 Leader **AWASS** Team (2021 - Now) 
-- 📊 Leader **HGames Studio** Team (2022 - Now)
+- 🌱 Founder **EOG** (2016 - Now) 
+- 🔭 Founder **GVN** (2019 - Now) 
+- 🤖 Founder **AWASS** (2021 - Now) 
+- 📊 Founder **HGames Studio** (2022 - Now)
 - 🛠 Not Hacker
 - 🐞 Developer
 - 🤖 Gamer
