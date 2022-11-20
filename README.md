@@ -15,7 +15,7 @@
 - 🔭 Founder **GVN** (2019 - Now) 
 - 🤖 Founder **AWASS** (2021 - Now) 
 - 📊 Founder **HGames Studio** (2022 - Now)
-- 🛠 Not Hacker
+- 🛠 Pentester
 - 🐞 Developer
 - 🤖 Gamer
 - 📊 Blogger
