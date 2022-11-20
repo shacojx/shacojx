@@ -8,8 +8,6 @@
 [![TryHackMe Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/shaco.jx)](https://facebook.com/shaco.jx)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shacojx001@gmail.com)](mailto:shacojx001@gmail.com)
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-
  
 <img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="150" align="left"/><img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250" align="center"/><img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="250" align="center"/>
 ### A little about me... 
