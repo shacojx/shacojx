@@ -10,12 +10,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Blogger-f57c00?style=flat-square&logo=blogger&logoColor=white&link=https://shacojx.blogspot.com/)](https://shacojx.blogspot.com/)
 
  
-<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="150" align="left"/><img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250" align="center"/><img src="https://github.com/shacojx/shacojx/blob/main/awass.png" width="250" align="center"/>
+<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="150" align="left"/><img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250" align="center"/>
 ### A little about me... 
 
 - 🌱 Founder **EOG** (2016 - Now) 
 - 🔭 Founder **GVN** (2019 - Now) 
-- 🤖 Founder **AWASS** (2021 - Now) 
 - 📊 Founder **HGames Studio** (2022 - Now)
 - 🛠 Pentester
 - 🐞 Developer
@@ -25,40 +24,6 @@
 - 👯 SecOps
 
 
-### 💥 Working on
-<br>
-<p align="center">
- 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/shacojx/EScan">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shacojx&repo=EScan&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/shacojx/VinaScanHub">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shacojx&repo=VinaScanHub&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/shacojx/FTSec-Email-Spoofing-Tool">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shacojx&repo=FTSec-Email-Spoofing-Tool&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<a href="https://github.com/shacojx/WordPress-CVE-Exploit-POC">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shacojx&repo=WordPress-CVE-Exploit-POC&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<a href="https://github.com/shacojx/Drupal-CVE-Exploit-POC">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shacojx&repo=Drupal-CVE-Exploit-POC&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
 <br>
 </p>
 📝 Latest Blog Posts
