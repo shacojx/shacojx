@@ -9,13 +9,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shacojx001@gmail.com)](mailto:shacojx001@gmail.com)
 [![Gmail Badge](https://img.shields.io/badge/-Blogger-f57c00?style=flat-square&logo=blogger&logoColor=white&link=https://shacojx.blogspot.com/)](https://shacojx.blogspot.com/)
 
- 
-<img src="https://github.com/shacojx/shacojx/blob/main/eog.jpg" width="150" align="left"/><img src="https://github.com/shacojx/shacojx/blob/main/gvn.png" width="250" align="center"/>
+
 ### A little about me... 
 
-- 🌱 Founder **EOG** (2016 - Now) 
-- 🔭 Founder **GVN** (2019 - Now) 
-- 📊 Founder **HGames Studio** (2022 - Now)
+- 📊 Founder **HGames Studio Co. Ltd** (2022 - Now)
 - 🛠 Pentester
 - 🐞 Developer
 - 🤖 Gamer
