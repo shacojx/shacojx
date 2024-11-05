@@ -12,13 +12,9 @@
 
 ### A little about me... 
 
-- 📊 Founder **HGames Studio Co. Ltd** (2022 - Now)
 - 🛠 Pentester
 - 🐞 Developer
 - 🤖 Gamer
-- 📊 Blogger
-- 🤔 DevOps
-- 👯 SecOps
 
 
 <br>
