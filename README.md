@@ -18,6 +18,4 @@
 <br>
 <br>
 
-<p align="center">
-  <img src="https://github.com/shacojx/shacojx/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
 
