@@ -5,7 +5,6 @@
 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/shacojx/)](https://github.com/shacojx/)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab&link=https://gitlab.com/shacojx001)](https://gitlab.com/shacojx001)
-[![TryHackMe Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/shaco.jx)](https://facebook.com/shaco.jx)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shacojx001@gmail.com)](mailto:shacojx001@gmail.com)
 
 
